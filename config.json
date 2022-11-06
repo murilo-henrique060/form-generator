@@ -1,0 +1,12 @@
+{
+    "func": [
+        "choice",
+        "text",
+        "label"
+    ],
+    "args": [
+        ["Have you already watched one piece?", "yes", "no"],
+        ["Uta is dead"],
+        ["What is your favorite character of op?"]
+    ]
+}
