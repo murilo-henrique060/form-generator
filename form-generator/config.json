@@ -1,0 +1,13 @@
+{
+    "title": "One Piece form",
+    "func": [
+        "text",
+        "label",
+        "radio"
+    ],
+    "args": [
+        ["Uta is dead"],
+        ["What is your favorite character of op?", "fCharacter"],
+        ["Have you already watched one piece?", "wOP", [{"id": "y", "value": "yes", "content": "Yes"}, {"id": "n", "value": "no", "content": "No"}]]
+    ]
+}
